@@ -62,7 +62,7 @@ Hi 🫵🏽 ${pushname}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363614256474114@newsletter',
-                    newsletterName: '𝗡𝗜𝗠𝗔 𝗔𝗟𝗜𝗩𝗘',
+                    newsletterName: 'SHADOW MD',
                     serverMessageId: 143
                 }
             }
