@@ -27,7 +27,7 @@
 </p>
 
 -----------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/KERM-MD-V1/count.svg" /><br>NIMAH-MD-V1</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/KERM-MD-V1/count.svg" /><br>SHADOW-MD-V1</div>
 
 ------------
 
