@@ -29,7 +29,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['94769091078']
+const ownerNumber = ['94715603835']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/session/creds.json')) {
@@ -49,7 +49,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("COMETHING NIMA-MD 🎭...");
+console.log("COMETHING SHADOW-MD 🎭...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/session/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -77,19 +77,19 @@ require("./plugins/" + plugin);
 }
 });
 console.log('𝙿𝙻𝚄𝙶𝙸𝙽𝚂 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽𝚂𝚃𝙰𝙻𝙻 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 ✅')
-console.log('NIMA-MD DIPLOY SUCCESSFUL TO ENJOY 𝚃𝙾 ✅')
+console.log('SHADOW-MD DIPLOY SUCCESSFUL TO ENJOY 𝚃𝙾 ✅')
 
 let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅ 
 
- WELCOME TO NIMA-MD
+ WELCOME TO SHADOW-MD
 
 *🔹 ᴘʀᴇғɪx:* *${prefix}*
 
-*🔹 ᴏᴡɴᴇʀ:* 94769091078
+*🔹 ᴏᴡɴᴇʀ:* 94715603835
 
 *🖇️Join My WhatsApp Channels✓💗* 
 
-- : ᴜɴᴅᴇꜰɪɴᴇᴅ
+- : https://whatsapp.com/channel/0029Vb5fP0z7z4kYHkd17c2l
 
 - : ᴜɴᴅᴇꜰɪɴᴇᴅ
 
@@ -97,8 +97,8 @@ let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅
 
  - : ᴜɴᴅᴇꜰɪɴᴇᴅ
 
-> *POWERED BY LOKU NIMAH🤹‍♂️ ʙᴇᴛᴀ ꜱᴇʀᴠɪᴄᴇ*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/zqoycp.jpg` }, caption: up })
+> *POWERED BY CYEBER SHADOW FAMILY🤹‍♂️ ʙᴇᴛᴀ ꜱᴇʀᴠɪᴄᴇ*`;
+conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/eigd9d.jpg` }, caption: up })
 
 }
 })
@@ -242,7 +242,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send ("NIMA-MD IS CONNECTED ✅");
+res.send ("SHADOW-MD IS CONNECTED ✅");
 });
 app.listen(port, () => console.log(`Xlord Server listening on port http://localhost:${port}`));
 setTimeout(() => {
