@@ -1,11 +1,11 @@
 ---------
 
-### <br>  ❖ NIMA MD V1 ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY NIMA🇱🇰`** 🔰
+### <br>  ❖ SHADOW MD V1 ❖
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY CYEBER SHADOW FAMILY`** 🔰
 
 ----------
 
-<a><img src='https://files.catbox.moe/zqoycp.jpg'/></a>
+<a><img src='https://files.catbox.moe/eigd9d.jpg'/></a>
 
 -------
 
