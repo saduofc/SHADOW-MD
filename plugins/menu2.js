@@ -43,10 +43,10 @@ let madeMenu = `*╭─────────────────❒⁠⁠
 *┕─────────────────❒*
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
-   *WELCOME TO NIMA-MD FULL COMMAND LIST👇*
+   *WELCOME TO SHADOW-MD FULL COMMAND LIST👇*
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-*CREATED BY LOKU NIMA👨🏻‍💻*
+*CREATED BY CYEBER SHADOW FAMILY👨🏻‍💻*
 
 *╭───────────────❒⁠⁠⁠⁠*
 *│* *_https://github.com/Lokunima2001/LOKU-NIMA-MD-GIT_*
@@ -100,7 +100,7 @@ ${menu.search}
 
 *❒⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭❒*⁠⁠⁠⁠
 
-> *POWERED BY LOKU NIMAH🇱🇰*
+> *POWERED BY CYEBAR SHADOW FAMILY*
 
 ╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
 `
