@@ -19,7 +19,7 @@ module.exports = {
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/eigd9d.jpg",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/tpugij.jpg",
     ALIVE_MSG: process.env.ALIVE_MSG || "HI AM ALIVE NOW AM SHADOW-MD WHATSAPP BOT🚀",
     ANTI_LINK: process.env.ANTI_LINK || "false",
     ANTI_BAD: process.env.ANTI_BAD || "true",
