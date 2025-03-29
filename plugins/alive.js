@@ -70,7 +70,7 @@ Hi 🫵🏽 ${pushname}
         
         // Send the audio file with context info
         await conn.sendMessage(from, {
-            audio: { url: 'https://raw.githubusercontent.com/Kgtech-cmr/KERM-MD-V1/refs/heads/main/DATABASE/Kermalive.m4a' },
+            audio: { url: 'https://github.com/Nethuni2007/SHADOW-VOICE/raw/refs/heads/main/database/bab21e74-a225-4003-8485-5f65abce3dd5.mp3' },
             mimetype: 'audio/mp4',
             ptt: true,
             contextInfo: { 
