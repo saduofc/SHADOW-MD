@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 
 //--------------------------Malvin King--------------------------------------
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "EIRAyLIL#muIIuQ93eV5sbYK8JKA3EdCnShlQyThPdJxS8tVAM5c",
+    SESSION_ID: process.env.SESSION_ID || "9F5lCYIK#GEmhkwW_m-3Tn0wUQ1QakydIUHCMrJ4qCcRkxSUm-Ng",
     CAPTION: process.env.CAPTION || "*©  BY CYEBER SHADOW FAMLIY *",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
