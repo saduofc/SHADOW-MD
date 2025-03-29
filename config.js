@@ -19,8 +19,8 @@ module.exports = {
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "true",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/tpugij.jpg",
-    ALIVE_MSG: process.env.ALIVE_MSG || "HI AM ALIVE NOW AM SHADOW-MD WHATSAPP BOT🚀",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/ali8ed.jpg",
+    ALIVE_MSG: process.env.ALIVE_MSG || "HI AM ALIVE NOW AM QUEEN-SADU-MD WHATSAPP BOT🚀",
     ANTI_LINK: process.env.ANTI_LINK || "false",
     ANTI_BAD: process.env.ANTI_BAD || "true",
     PREFIX: process.env.PREFIX || ".",
@@ -29,8 +29,8 @@ module.exports = {
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",
     BOT_NAME: process.env.BOT_NAME || "『 QUEEN-SADU-MD 』",
-    AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
-    AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "`Status Seen By queen sadu-MD Bot 🦄 `",
+    AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
+    AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || ".✓",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
 //--------------MADE BY MALVIN KING 2025---------------->-
