@@ -8,6 +8,7 @@
 <a><img src='https://files.catbox.moe/tpugij.jpg'/></a>
 
 -------
+<img src="https://files.catbox.moe/b68wmz.gif" alt="GIF Preview">
 
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SHADOW+-+MD+-+V1+WHATSAPP+BOT`" alt="">
